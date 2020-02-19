@@ -11,6 +11,7 @@ CICD / DEVOPS
 9. Kibana
 10. Minikube
 11. Teraform
+12. Circle CI
 
 Software Development
 ====================
