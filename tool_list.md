@@ -10,6 +10,7 @@ CICD / DEVOPS
 8. Helm
 9. Kibana
 10. Minikube
+11. Teraform
 
 Software Development
 ====================
