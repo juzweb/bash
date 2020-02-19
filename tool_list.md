@@ -1,12 +1,12 @@
 CICD / DEVOPS
 ==============
-1. GIT
-2. JENKINS
-3. GITLAB
-4. GOCD
+1. GIT (FREE)
+2. JENKINS (COMMUNITY)
+3. GITLAB (COMMUNITY)
+4. GOCD (FREE)
 5. K8s
 6. Docker
-7. Grafana
+7. Grafana (FREE)
 8. Helm
 9. Kibana
 10. Minikube
